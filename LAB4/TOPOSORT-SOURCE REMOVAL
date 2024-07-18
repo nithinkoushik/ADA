@@ -1,3 +1,5 @@
+//SOURCE REMOVAL TECHNIQUE
+
 #include<stdio.h>
 
 int main(){
